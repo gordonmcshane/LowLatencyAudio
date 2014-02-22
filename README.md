@@ -7,7 +7,7 @@ LowLatencyAudio is a native plugin for PhoneGap.  This implementation is designe
 
 The LowLatencyAudio plugin can be added to your project via the PhoneGap command line tools.  Simply use the following command to add this to your project:
 
-`phonegap local plugin add https://github.com/triceam/LowLatencyAudio`
+`phonegap local plugin add https://github.com/gordonmcshane/LowLatencyAudio`
 
 ## Usage
 
